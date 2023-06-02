@@ -63,28 +63,6 @@ https://github.com/stresszero/togedog-backend
 
 #### 최현민 : 게시판 (게시판 메인리스트, 글 작성, 게시판 디테일)
 
-</br>
-
-## ✍️ 프로젝트 회고 
-> **프로젝트 채팅 UI** </br>
-- **✨셋팅 및 UI 구성하기** 👉 [**자체 프로젝트 with-dog UI**](https://velog.io/@seul06/with-dog-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-socket.io-fvnwblk1)
-
-</br>
-
-> **프로젝트 채팅기능** </br>
-- **✨ with-dog 프로젝트 채팅 기능 구현** 👉 [**채팅기능 구현하기**](https://velog.io/@seul06/with-dog-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2)
-
-</br>
-
-> **프로젝트 채팅 기능 구현에 앞서 Websocket과 Socket.IO 개념 알고 익히기. 실습 프로젝트 !** </br>
-- JavaScript + Websocket 👉 [**WebSocket 으로 채팅기능 구현 해보기**](https://velog.io/@seul06/with-dog-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0) </br>
-- JavaScript + Socket.IO 👉 [**Socket.IO로 채팅기능 구현 해보기**](https://velog.io/@seul06/Socket.IO%EB%A1%9C-%EC%B1%84%ED%8C%85%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-%ED%95%B4%EB%B3%B4%EA%B8%B0) </br>
-- React + Socket.IO 👉 [**Socket.IO로 채팅기능 구현 해보기**](https://velog.io/@seul06/Socket.IO%EB%A1%9C-%EC%B1%84%ED%8C%85%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-%ED%95%B4%EB%B3%B4%EA%B8%B0) </br> 
-
-
-</br>
-
-
 ## ✅ 구현 영상
 >📌 유튜브  </br>
 1부 - [메인 & 회원가입, 로그인 & MBTI검사](https://www.youtube.com/watch?v=DjAvQLK1eZk&t=3s) </br> 
